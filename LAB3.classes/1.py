@@ -1,6 +1,4 @@
 class My_own_class:
-     '''def_init_(self, stroka):
-        self.stroka = stroka'''
      def getString(self):
           stroka = input()
           self.stroka = stroka
